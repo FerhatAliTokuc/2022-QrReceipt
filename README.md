@@ -30,4 +30,8 @@
 - Prototip Açıklamaları
 
 ### Detaylar (İsteğe Bağlı)
-- Detay Açıklamalar
+Veri tabanı için MongoDB kullandık. MongoDB yi Docker ile çalıştırdık.
+docker contaıner run -d -p 27017:27017 --name mongodb-server mongo.
+Container oluşturduktan sonra MongoDBCompass uygulamaı ile bir hackathon adında bir veri tabanı oluşturduk. (.env dosyasın da database ayarları mevcut).
+Programlama dili olarak TypeScript kullandık kütüphane olarak express, mongoose, qrcode, multer, body-parser, cors, http-status, nodemon, @types/node, dotenv, morgan, helmet
+Projenin frontend kısmını erken erişim olduğu için yüklemedik. Frontend framework olarak React kullandık, geliştirmeye devam etmektyiz.
