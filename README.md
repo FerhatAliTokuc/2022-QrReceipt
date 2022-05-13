@@ -111,7 +111,10 @@ https://data.ibb.gov.tr/dataset/gorme-engelli-birey-bilgileri
 
 Hanehalkı Tüketim Harcaması İstatistikleri
 https://biruni.tuik.gov.tr/medas/?kn=84&locale=tr
+
 3.Kaggle
+
+https://www.kaggle.com/datasets/nickwong64/corn2015-2017
 
 **Teknik Mimari**
 
