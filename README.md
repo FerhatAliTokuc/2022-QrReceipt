@@ -55,8 +55,28 @@ Spesifik Kitle:
 ### Prototip
 - Prototip Açıklaması 1
 
-### Teknik Mimari / Teknoloji / Veri Kaynakları
-- Teknik Mimari / Teknoloji / Veri Kaynakları Açıklamaları
+### Teknoloji / Veri Kaynakları / Teknik Mimari
+
+**Teknoloji**
+
+1.Azure Cloud
+2.Azure Machine Learning
+3.Azure Key Vault
+4.Power Bi
+5.Node.js 
+6.React.js
+7.TypeScript
+8.React-Native
+9.MongoDB
+10.Docker
+
+**Veri Kaynakları**
+1.İBB Açık Veri Portalı
+2.Türkiye İstatisik Kurumu
+
+**Teknik Mimari*
+![image](https://user-images.githubusercontent.com/65132520/168214981-39b08485-3c61-4f43-b65d-07a5f56f29f0.png)
+
 
 ### Prototip
 - Prototip Açıklamaları
@@ -71,3 +91,6 @@ Spesifik Kitle:
 - Programlama dili olarak TypeScript kullandık kütüphane olarak express, mongoose, qrcode, multer, body-parser, cors, http-status, nodemon, @types/node, dotenv, morgan, helmet
 
 - Projenin frontend kısmını erken erişim olduğu için yüklemedik. Frontend framework olarak React kullandık, geliştirmeye devam etmektyiz.
+![Project Summary - Template](https://user-images.githubusercontent.com/65132520/168214921-f354f742-c38b-4c4a-bd1e-104e34d7d787.jpg)
+
+
