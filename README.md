@@ -105,9 +105,12 @@ Spesifik Kitle:
 **Veri Kaynakları**
 
 1.İBB Açık Veri Portalı
+https://data.ibb.gov.tr/dataset/gorme-engelli-birey-bilgileri
 
 2.Türkiye İstatisik Kurumu
 
+Hanehalkı Tüketim Harcaması İstatistikleri
+https://biruni.tuik.gov.tr/medas/?kn=84&locale=tr
 3.Kaggle
 
 **Teknik Mimari**
