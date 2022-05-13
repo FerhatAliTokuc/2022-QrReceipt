@@ -53,7 +53,26 @@ Spesifik Kitle:
 - Görme engelli bireyler
 
 ### Prototip
-- Prototip Açıklaması 1
+- Ürünümüz erken geliştirme aşamasındadır. Yazılımın öncelikli olarak back-end kısmıyla ilgilendiğimiz için ilerleyen sürümlerde front-end tarafına öncelik verilerek çok ciddi görsel iyileştirmeler yapılacaktır.
+
+![WhatsApp Image 2022-05-13 at 03 17 42](https://user-images.githubusercontent.com/65132520/168217047-196f7914-6d4d-4510-8060-0e18012168fd.jpeg) ![WhatsApp Image 2022-05-11 at 02 54 51](https://user-images.githubusercontent.com/65132520/168217089-40cdf403-015c-42ae-b012-4a4523718099.jpeg)
+
+
+![WhatsApp Image 2022-05-13 at 05 25 55](https://user-images.githubusercontent.com/65132520/168217064-667bf3dd-06cc-4e06-b1ef-656e42f048d6.jpeg)
+
+
+![WhatsApp Image 2022-05-13 at 00 10 38](https://user-images.githubusercontent.com/65132520/168217074-ecf02bdc-802f-40fc-b14e-51a4087ddf2e.jpeg)
+
+
+
+
+
+
+![fiyat 2](https://user-images.githubusercontent.com/65132520/168217620-2abed08b-7dd4-4364-84b9-9b01c823ff6a.png)
+
+
+
+
 
 ### Teknoloji / Veri Kaynakları / Teknik Mimari
 
@@ -66,7 +85,7 @@ Spesifik Kitle:
 
 3.Azure Key Vault
 
-4.Power Bi
+4.Power BI
 
 5.Node.js 
 
@@ -108,6 +127,7 @@ Spesifik Kitle:
 
 - Projenin frontend kısmını erken erişim olduğu için yüklemedik. Frontend framework olarak React kullandık, geliştirmeye devam etmektyiz.
 
-![Project Summary - Template](https://user-images.githubusercontent.com/65132520/168214921-f354f742-c38b-4c4a-bd1e-104e34d7d787.jpg)
+
+![Project Summary - Template](https://user-images.githubusercontent.com/65132520/168217774-46a5c75b-31e7-4546-a31c-a585d6917b26.jpg)
 
 
