@@ -9,10 +9,10 @@
 - QR Receipt
 
 ### Takım Adı & Üyeleri
-- Takım Üyesi 1 Ferhat Ali Tokuç
-- Takım Üyesi 2 Muzaffer Tolga Yakar
-- Takım Üyesi 3 Çetin Kaan Taşkıngenç
-- Takım Üyesi 4 Emre Özkal
+- Takım Üyesi 1 Ferhat Ali Tokuç ( Architecture , Designer , Developer)
+- Takım Üyesi 2 Muzaffer Tolga Yakar (Front-end , Back-end)
+- Takım Üyesi 3 Çetin Kaan Taşkıngenç (Front-end , Back-end)
+- Takım Üyesi 4 Emre Özkal ( Tester - Developer )
 
 ### Problem
 - Fişlerin geri dönüştürülememesi (Termal kağıt)
