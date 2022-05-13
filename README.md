@@ -3,22 +3,54 @@
 19 Mayıs Atatürk’ü Anma Gençlik ve Spor Bayramı kapsamında; İstanbul Büyükşehir Belediyesi ve Microsoft Türkiye iş birliği ile, Coderspace organizasyonu ile gerçekleşen ‘Sürdürülebilir Şehirler Hackathon’u projelerini içermektedir. Hackathon detayları için : https://surdurulebilirsehirler.ist/
 
 ### Proje Adı
-- Test Projesi
+- QR Receipt
 
 ### Takım Adı & Üyeleri
-- Takım Üyesi 1 (Ad Soyad)
-- Takım Üyesi 2 (Ad Soyad)
+- Takım Üyesi 1 Ferhat Ali Tokuç
+- Takım Üyesi 2 Muzaffer Tolga Yakar
+- Takım Üyesi 3 Çetin Kaan Taşkıngenç
+- Takım Üyesi 4 Emre Özkal
 
 ### Problem
-- Problem Açıklaması 1
-- Problem Açıklaması 2
+- Fişlerin geri dönüştürülememesi (Termal kağıt)
+
+- Görme engelli bireylerin fişleri okuyamaması / okuyabilmesi için tasarlanan OCR teknolojisinin efektif olmaması
+
+- Fiş/Fatura kağıtlarının  çok çabuk deforme olabilmesi ( Garanti / iade sorunları)
+
+- Fiş/fatura arşivi yapmanın çok zor olması (Arşivleme veya aradığınız belgeyi bulabilme)
+
+- Muhasebecilerin fiş veya faturaları sisteme geçmesinin çok zor ve efektif olmaması
+
+- Kredi kartı / fatura gibi belgelerin atılması sonucu oluşan güvenlik açıkları 
+
+- Ürünlerin gelecekteki fiyatlarının belirsizliği yüzünden insanların ihtiyaçlarından daha fazla ürün alarak stok sorunları ortaya çıkarması
+
+- Kişilerin bütçe analizini otomatik yapan sistemlerin bulunmaması
 
 ### Çözüm ve Son Kullanıcı Deneyimi
-- Çözüm ve Son Kullanıcı Deneyimi Açıklaması 1
-- Çözüm ve Son Kullanıcı Deneyimi Açıklaması 2
+- Fişlerin yerine qr kod kullanımı saymış olduğumuz tüm sorunları çözmektedir.
+
+- Qr kod sayesinde geri dönüşümü olmayan termal kağıt kullanımı son bulacaktır.
+
+- Görme engelli bireyler  "text to voice " teknolojisi sayesinde harcamalarına kısa saniye içinde erişebilir, bilgilerin doğrulunu teyit edebilirler.
+
+- Kişilerin fiş/fatura bilgileri online bir veri merkezinde tutulduğu için fiş/faturaların deforme olması ve arşivlenmesi sorunları çözülecektir.
+
+- Harcamalar Microsoft Excel gibi bilgisayar formatlarında dışarı aktarılabileceği için muhasebe gibi bölümlerin gereksiz iş yükleri ortadan kalkacaktır.
+
+- Atık fişlerden/ faturalardan dolayı ortaya çıkan güvenlik sorunları yok olacaktır.
+
+- Ürünlerin fiyat bilgisi sistem tarafından tutulduğu için kişiler o ürünün gelecek gün, hafta veya ayda tahmini fiyatını öğrenebilecek ve ona göre alışverişini daha  doğru bir şekilde yapabilecektir.
+
+- Kişilerin harcamaları sistem tarafından tutulduğu için kişilerin günlük , haftalık ,aylık veya yıllık bütçelerini hangi kategorilerde harcadıklarını görüp bütçe planmasını daha efektif bir şekilde yapabileceklerdir.
+
 
 ### Hedef Kitle
-- Hedef Kitle Açıklaması
+Genel Kitle:
+- Akıllı telefon kullanan tüm bireyler
+Spesifik Kitle:
+- Görme engelli bireyler
 
 ### Prototip
 - Prototip Açıklaması 1
@@ -30,12 +62,12 @@
 - Prototip Açıklamaları
 
 ### Detaylar (İsteğe Bağlı)
--Veri tabanı için MongoDB kullandık. MongoDB yi Docker ile çalıştırdık.
+- Veri tabanı için MongoDB kullandık. MongoDB yi Docker ile çalıştırdık.
 
--docker contaıner run -d -p 27017:27017 --name mongodb-server mongo.
+- Docker contaıner run -d -p 27017:27017 --name mongodb-server mongo.
 
--Container oluşturduktan sonra MongoDBCompass uygulamaı ile bir hackathon adında bir veri tabanı oluşturduk. (.env dosyasın da database ayarları mevcut).
+- Container oluşturduktan sonra MongoDBCompass uygulamaı ile bir hackathon adında bir veri tabanı oluşturduk. (.env dosyasın da database ayarları mevcut).
 
--Programlama dili olarak TypeScript kullandık kütüphane olarak express, mongoose, qrcode, multer, body-parser, cors, http-status, nodemon, @types/node, dotenv, morgan, helmet
+- Programlama dili olarak TypeScript kullandık kütüphane olarak express, mongoose, qrcode, multer, body-parser, cors, http-status, nodemon, @types/node, dotenv, morgan, helmet
 
--Projenin frontend kısmını erken erişim olduğu için yüklemedik. Frontend framework olarak React kullandık, geliştirmeye devam etmektyiz.
+- Projenin frontend kısmını erken erişim olduğu için yüklemedik. Frontend framework olarak React kullandık, geliştirmeye devam etmektyiz.
