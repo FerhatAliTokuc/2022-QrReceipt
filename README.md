@@ -2,6 +2,9 @@
 
 19 Mayıs Atatürk’ü Anma Gençlik ve Spor Bayramı kapsamında; İstanbul Büyükşehir Belediyesi ve Microsoft Türkiye iş birliği ile, Coderspace organizasyonu ile gerçekleşen ‘Sürdürülebilir Şehirler Hackathon’u projelerini içermektedir. Hackathon detayları için : https://surdurulebilirsehirler.ist/
 
+![Project Summary - Template](https://user-images.githubusercontent.com/65132520/168225424-56e2eb45-a33c-4274-9dce-cf34655fd1eb.png)
+
+
 ### Proje Adı
 - QR Receipt
 
@@ -105,6 +108,8 @@ Spesifik Kitle:
 
 2.Türkiye İstatisik Kurumu
 
+3.Kaggle
+
 **Teknik Mimari**
 
 
@@ -114,9 +119,8 @@ Spesifik Kitle:
 
 
 ### Prototip
-- Prototip Açıklamaları
+ **Prototip Açıklamaları**
 
-### Detaylar (İsteğe Bağlı)
 - Veri tabanı için MongoDB kullandık. MongoDB yi Docker ile çalıştırdık.
 
 - Docker contaıner run -d -p 27017:27017 --name mongodb-server mongo.
@@ -127,7 +131,9 @@ Spesifik Kitle:
 
 - Projenin frontend kısmını erken erişim olduğu için yüklemedik. Frontend framework olarak React kullandık, geliştirmeye devam etmektyiz.
 
+### Detaylar (İsteğe Bağlı)
+-Projenin uygulanabilirlik oranı bir hayli yüksektir.Kolay bir şekilde entegre edilebilir ve kullanılabilir. Şuan halihazırda qr pos ile ödeme alan sistemler gerekli yazılım güncellemeleri ile qr fiş basar haline gelebilir. Bunu yapacak teknolojik alt yapıya sahip olmayan pos cihazları yenileri ile değiştirebilir yada maliyeti düşük ucuz bir ekran temin edilebilir.
 
-![Project Summary - Template](https://user-images.githubusercontent.com/65132520/168217774-46a5c75b-31e7-4546-a31c-a585d6917b26.jpg)
+
 
 
