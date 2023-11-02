@@ -1,6 +1,6 @@
-<h2 align="center"><span><strong>2022 İBB Sürdürülebilir Şehirler Hackathonu</strong></span></h2>
+<h2 align="center"><span><strong>The 2022 Istanbul Metropolitan Municipality Sustainable Cities Hackathon</strong></span></h2>
 
-19 Mayıs Atatürk’ü Anma Gençlik ve Spor Bayramı kapsamında; İstanbul Büyükşehir Belediyesi ve Microsoft Türkiye iş birliği ile, Coderspace organizasyonu ile gerçekleşen ‘Sürdürülebilir Şehirler Hackathon’u projelerini içermektedir. Hackathon detayları için : https://surdurulebilirsehirler.ist/
+As part of the May 19th Commemoration of Atatürk, Youth and Sports Day, the 'Sustainable Cities Hackathon' organized in collaboration with Istanbul Metropolitan Municipality and Microsoft Turkey, in partnership with Coderspace, includes their projects. For more details about the hackathon: https://surdurulebilirsehirler.ist/
 
 ![Project Summary - Template](https://user-images.githubusercontent.com/65132520/168225424-56e2eb45-a33c-4274-9dce-cf34655fd1eb.png)
 
@@ -92,12 +92,12 @@ Specific Audience:
 
 **Data Sources**
 
-1.İBB Açık Veri Portalı
+1.Istanbul Metropolitan Municipality Open Data Portal
 https://data.ibb.gov.tr/dataset/gorme-engelli-birey-bilgileri
 
-2.Türkiye İstatisik Kurumu
+2.Turkish Statistical Institute
 
-Hanehalkı Tüketim Harcaması İstatistikleri
+Household Consumption Expenditure Statistics
 https://biruni.tuik.gov.tr/medas/?kn=84&locale=tr
 
 3.Kaggle
