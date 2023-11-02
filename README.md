@@ -123,8 +123,6 @@ https://www.kaggle.com/datasets/nickwong64/corn2015-2017
 
 -  We haven't uploaded the frontend part of the project as it's in early access. We used React as the frontend framework and will continue development.
 
-- Projenin frontend kısmını erken erişim olduğu için yüklemedik. Frontend framework olarak React kullandık, geliştirmeye devam etmektyiz.
-
 
 
 
